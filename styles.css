@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+nav>ul{
+	position:relative;
+	left:100%;
+}
+nav>ul{
+	display:flex;
+	gap:40px;
+}
